@@ -1,0 +1,25 @@
+.carous-caption{
+    top: 35%;
+}
+@media screen and (max-width){
+    .carous-caption{
+        top:5%;
+        line-height: 25px;
+    }
+    .top-header{
+        font-size: 30px;
+    }
+   .course {
+         display: flex;
+         flex-direction: column;
+    }
+    
+    .course div img {
+         width: 100%;
+    }   
+    .elarning-container{
+        display: flex;
+        flex-direction: column;
+    }   
+
+}
